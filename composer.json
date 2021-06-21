@@ -11,7 +11,7 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "php": ">=7.2",
+    "php": "^7.1 || ^8.0",
     "triagens/arangodb": "^3.0"
   },
   "autoload": {
